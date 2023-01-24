@@ -19,3 +19,24 @@ C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-win
 C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect_MIP.Login.resources
 C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect_MIP.Patient_App.resources
 C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect_MIP.Doctor_App.resources
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\bin\Debug\net6.0-windows\Login.exe
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\bin\Debug\net6.0-windows\Login.deps.json
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\bin\Debug\net6.0-windows\Login.dll
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\bin\Debug\net6.0-windows\Login.pdb
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Proiect_MIP.CreateDoctor.resources
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Proiect_MIP.CreatePatient.resources
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Proiect_MIP.Doctor_App.resources
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Proiect_MIP.Login.resources
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Proiect_MIP.Patient_App.resources
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Login.AssemblyInfo.cs
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Login.dll
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\refint\Login.dll
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Login.pdb
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+C:\Users\crist\Desktop\MIP-Proiect\Proiect MIP\obj\Debug\net6.0-windows\ref\Login.dll

@@ -15,23 +15,96 @@ namespace Working_With_Data
     public class UserLogin
     {
         //it can be null so we could transfer it from create form to data saver without knowing the id 
-        public int? Id { get; set; }
-        public String? Username { get; set; }
-        public String? Password { get; set; }
+        private int? _id;
+        private String _username = "";   
+        private String _password = "";
+
+        public int? Id { get
+            {
+                return _id;
+            }
+            set
+            {
+                _id = value;
+            }
+        }
+        public String Username
+        {
+            get
+            {
+                return _username;
+            }
+            set
+            {
+                _username = value;
+            }
+        }
+        public String Password { 
+            get
+            {
+               return _password;  
+            }
+            set
+            {
+                _password = value;
+            }
+        }
+
     }
     public class User : UserLogin
     {
-        public String FirstName { get; set; }
-        public String LastName { get; set; }
+        private String _firstName = "";
+        private String _lastName = "";
+        public String FirstName { 
+            get
+            {
+                return _firstName;
+            }
+            set
+            {
+                _firstName = value;
+            }
+        }
+        public String LastName
+        {
+            get
+            {
+                return _lastName;
+            }
+            set
+            {
+                _lastName = value;
+            }
+        }
 
     }
     public class Doctor : User
     {
-        public string Specialization { get; set; }
+        private string _specialization = "";
+        public string Specialization { 
+            get
+            {
+                return _specialization;
+            }
+            set
+            {
+                _specialization = value;
+            }
+        }
     }
     public class Patient : User
     {
-        public String CNP { get; set; }
+        private String _CNP = "";
+        public String CNP {
+            get
+            {
+                return _CNP;
+            }
+            set
+            {
+                _CNP = value;
+            }
+        }
         public List<int> Apointments = new List<int>();
     }
     [Serializable]
