@@ -1,0 +1,17 @@
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\bin\Debug\net6.0-windows\Proiect MIP.exe
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\bin\Debug\net6.0-windows\Proiect MIP.deps.json
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\bin\Debug\net6.0-windows\Proiect MIP.runtimeconfig.json
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\bin\Debug\net6.0-windows\Proiect MIP.dll
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\bin\Debug\net6.0-windows\Proiect MIP.pdb
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect MIP.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect_MIP.Form1.resources
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect MIP.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect MIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect MIP.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect MIP.AssemblyInfo.cs
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect MIP.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect MIP.dll
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\refint\Proiect MIP.dll
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect MIP.pdb
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\Proiect MIP.genruntimeconfig.cache
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Proiect MIP\obj\Debug\net6.0-windows\ref\Proiect MIP.dll

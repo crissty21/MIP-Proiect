@@ -1,0 +1,5 @@
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Working With Data\obj\Debug\net6.0-windows\Working With Data.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Working With Data\obj\Debug\net6.0-windows\Working With Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Working With Data\obj\Debug\net6.0-windows\Working With Data.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Working With Data\obj\Debug\net6.0-windows\Working With Data.AssemblyInfo.cs
+C:\Users\crist\Desktop\ArkanoidGame\Proiect MIP\Working With Data\obj\Debug\net6.0-windows\Working With Data.csproj.CoreCompileInputs.cache

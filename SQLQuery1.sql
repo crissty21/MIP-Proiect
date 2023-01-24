@@ -1,0 +1,1 @@
+﻿CREATE TABLE DA (int id )
